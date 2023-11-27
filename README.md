@@ -1,2 +1,3 @@
 # Repository-demo
-This is my first Repository and I learn the github
+This is my first Repository.
+Author - Hemang Fasra
